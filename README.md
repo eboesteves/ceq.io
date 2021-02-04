@@ -3,9 +3,9 @@
 link to live site: https://eboesteves.github.io/ceq.io/
 
 Estes Apontamentos constituem o texto de apoio às aulas teórico-práticas da unidade curricular de Ges-tão da Qualidade da Licenciatura em Engenharia Alimentar (Departamento de Engenharia Alimentar do Instituto Superior de Engenharia da Universidade do Algarve).
-Nesta versão, os Apontamentos incidem sobre alguns tópicos do Controlo Estatístico da Qualidade, nome-adamente gráficos de controlo e planos de amostragem. Tenciono completar o texto com outros aspe-tos/técnicas/métodos… todavia, o tempo letivo limitado e a necessidade de aprofundar (ainda que “ligei-ramente”) alguns dos assuntos aqui tratados têm “dificultado” essa(s) alteração(ões).
-Na prática letiva, boa parte dos tópicos são concretizados usando uma folha de cálculo (no caso o Ex-cel®2010), tanto para os cálculos como para os gráficos.
-Apesar dos esforços em corrigir os erros que possivelmente esta versão ainda inclui (apesar de ter corri-gido aqueles que os alunos de anos anteriores apontaram e que muito agradeço), os comentários e corre-ções “de muitos leitores serão, com certeza, mais e melhores do que apenas os meus” por isso… 
+Nesta versão, os Apontamentos incidem sobre alguns tópicos do Controlo Estatístico da Qualidade, nomeadamente gráficos de controlo e planos de amostragem. Tenciono completar o texto com outros aspetos/técnicas/métodos… todavia, o tempo letivo limitado e a necessidade de aprofundar (ainda que “ligeiramente”) alguns dos assuntos aqui tratados têm “dificultado” essa(s) alteração(ões).
+Na prática letiva, boa parte dos tópicos são concretizados usando uma folha de cálculo (no caso o Excel®2010), tanto para os cálculos como para os gráficos.
+Apesar dos esforços em corrigir os erros que possivelmente esta versão ainda inclui (apesar de ter corrigido aqueles que os alunos de anos anteriores apontaram e que muito agradeço), os comentários e correções “de muitos leitores serão, com certeza, mais e melhores do que apenas os meus” por isso… 
 
 Eduardo Esteves
 
