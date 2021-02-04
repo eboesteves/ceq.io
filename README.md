@@ -1,6 +1,6 @@
 # ceq.io
 
-[! link] (https://eboesteves.github.io/ceq.io/)
+[ceq] (https://eboesteves.github.io/ceq.io/)
 
 Estes *Apontamentos* constituem o texto de apoio às aulas teórico-práticas da unidade curricular de Ges-tão da Qualidade da Licenciatura em Engenharia Alimentar (Departamento de Engenharia Alimentar do Instituto Superior de Engenharia da Universidade do Algarve).
 Nesta versão, os Apontamentos incidem sobre alguns tópicos do Controlo Estatístico da Qualidade, nomeadamente gráficos de controlo e planos de amostragem. Tenciono completar o texto com outros aspetos/técnicas/métodos… todavia, o tempo letivo limitado e a necessidade de aprofundar (ainda que “ligeiramente”) alguns dos assuntos aqui tratados têm “dificultado” essa(s) alteração(ões).
