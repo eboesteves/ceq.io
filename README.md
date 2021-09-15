@@ -7,6 +7,7 @@ Nesta versão, os Apontamentos incidem sobre alguns tópicos do Controlo Estatí
 Na prática letiva, boa parte dos tópicos são concretizados usando uma folha de cálculo (no caso o Excel®2010), tanto para os cálculos como para os gráficos.
 Apesar dos esforços em corrigir os erros que possivelmente esta versão ainda inclui (apesar de ter corrigido aqueles que os alunos de anos anteriores apontaram e que muito agradeço), os comentários e correções “de muitos leitores serão, com certeza, mais e melhores do que apenas os meus” por isso… 
 
+$ y = a +bx$
 Eduardo Esteves
 
 E-mail: eesteves@ualg.pt; URL: https://ualg.academia.edu/eesteves ou https://scholar.google.pt/citations?user=wu0AlUMAAAAJ&hl=pt-PT.
